@@ -13,9 +13,9 @@ Apa yang diganti ?
 
 ## Screenshot
 - Messagebox jika select email
-![image](https://raw.githubusercontent.com/raihante/EventHandler/1.png)
+![image](https://github.com/raihante/EventHandler/blob/main/1.png)
 
 - Messagebox jika select whatsapp
-![image](https://raw.githubusercontent.com/raihante/EventHandler/2.png)
+![image](https://github.com/raihante/EventHandler/blob/main/2.png)
 
 > Muhammad Reihan Triatha 19.11.2816/IF04
